@@ -69,12 +69,3 @@ print(actorDict)
 
 all_values_of_dict = actorDict.values()
 print(all_values_of_dict)
-
-
-
-
-
-
-
-
-
