@@ -10,8 +10,6 @@ converted_into_list[0] = "Tony Stark"
 converted_into_tuple = tuple(converted_into_list)
 print(converted_into_tuple)
 
-
-
 # count()  -  it returns the number of the specified values in the tuple
 
 
