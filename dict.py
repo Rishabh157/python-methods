@@ -14,6 +14,7 @@ actorDict_copy = actorDict.copy()
 print(actorDict_copy)
 
 
+
 # fromkeys()  -  it return the dict with the specified keys and value.
 
 nameOfActor = dict.fromkeys(("name", "age"), "Rishabh")
